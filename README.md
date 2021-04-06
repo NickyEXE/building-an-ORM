@@ -1,8 +1,16 @@
 # Building an ORM
 
 - What is an ORM?
-
+  - Object Relational Mapping
+    - A tool that translates between relational databases (such as SQL) and Object-Oriented languages like Ruby
 - Why?
+  - So we can save and analyze our data with SQL.
+
+# Running this App
+
+First, run `bundle install` in the command line.
+
+To open up the console, run `bin/console`. If you get permission denied, run `chmod +x bin/console` first.
 
 # Tips
 
